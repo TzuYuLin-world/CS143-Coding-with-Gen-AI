@@ -1,9 +1,11 @@
 # CS143-Coding-with-Gen-AI
+
+## problem
 The problem I want AI to write a solution is making playlists.
 There are some data models such as artists, playcounts, own playlists, and all songs.
 It mainly includes these functions, like playing songs, finding lists, and updating songs(add or remove or count).
 
-
+## reflection
 What did you learn in the process?
 I learned that working with ai could be more efficiency but I still need to think ideas by myself. AI is an assistance instead of a doing whole issue tool.
 
