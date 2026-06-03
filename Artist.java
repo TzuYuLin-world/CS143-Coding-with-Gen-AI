@@ -41,6 +41,6 @@ public class Artist implements Playable {
 
     @Override
     public String toString() {
-        return String.format("Now playing:" + "[" + name + "]" + songs.size());
+        return String.format("[Artist] %s (%d songs)", name, songs.size());
     }
 }
